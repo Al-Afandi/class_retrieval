@@ -16,7 +16,8 @@ The repository has  four scripts, three scripts to implement our class retrieval
 
 ### Problem illustration
 An example image displaying a two dimensional UMAP projection of the MNIST digits in the sklearn package with an additional 100 attacked samples which originally belonged to class 7 and were transformed to class 3 with the PGD algorithm. The classes are marked and circled on the figure where 'A' denoting the adversarially attacked samples.
-![alt text](https://github.com/Al-Afandi/class_retrieval/blob/main/umap_attacks_marked.png)
+
+![drawing](https://github.com/Al-Afandi/class_retrieval/blob/main/umap_attacks_marked.png  =100x20)
 
 ## Authors
 **Jalal Al-afandi 
